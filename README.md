@@ -21,7 +21,7 @@
 | Micro-Lesson|  Time |  About |
 | ------ |:----------:| ------ |
 |  [Pipelines](https://docs.google.com/presentation/d/12EumnpHz2LoQ-KiM2mQv49IAN4IIan2DR8sI0sR_snM/edit?usp=sharing) | 20 | A deck with intro to Hugging Face pipelines. Time includes Sentiment analysis activity below |
-|  [Encoder Sentiment Analysis](https://git.generalassemb.ly/Modularisation-DSB-sandbox/Transformers/blob/master/encoder-sentiment-pipeline.ipynb) | 40 | Construct pipeline for sentiment analysis using encoder models and compare performance across models  |
+|  [Encoder Sentiment Analysis](https://git.generalassemb.ly/Modularisation-DSB-sandbox/NLP-Pipelines/blob/master/encoder-sentiment-pipeline.ipynb) | 40 | Construct pipeline for sentiment analysis using encoder models and compare performance across models  |
 | **Total content**     | 60 |    |
 
 ## References
