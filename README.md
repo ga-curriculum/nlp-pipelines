@@ -1,4 +1,4 @@
-## ![[NLP and LLMs ] NLP Pipelines](./assets/hero.png)
+## NLP Pipelines
 
 **Learning Objectives:** 
 1. Define NLP pipeline and Hugging Face Pipeline API
